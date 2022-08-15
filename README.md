@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Fabricio Nunes Paiva, 26. I'm an electrical engineer from Brazil interested in programming, mathematics, sports, travel and so on... Currently I am
--  improving my JavaScript skills and also learning react/react native. I’m looking to collaborate in a good company with a great enviorement and nice people.
+- 👋 Hi, I’m Fabricio Nunes Paiva, 26. I'm an electrical engineer from Brazil interested in programming, mathematics, sports, travel and so on... Currently I am improving my JavaScript skills and also learning react/react native. I’m looking to collaborate in a good company with a great enviorement and nice people.
 - 📫 How to reach me ... LinkedIn: www.linkedin.com/in/fabricio-paiva, E-mail: fabricio.npaiva@gmail.com
